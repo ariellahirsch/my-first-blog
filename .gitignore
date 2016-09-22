@@ -1,5 +1,6 @@
 *.pyc
 _pycache_
 myenv
-db.sqlite3/static
+db.sqlite3
+static
 .DS_Store
